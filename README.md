@@ -1,7 +1,7 @@
 
 # 💻 Lista de Exercícios – Concatenação e StringBuilder em Java
 
-Esta lista contém **10 exercícios** para praticar concatenação de strings em Java, utilizando tanto o operador `+` quanto a classe `StringBuilder`.  
+Esta lista contém **10 exemplos** para praticar concatenação de strings em Java, utilizando tanto o operador `+` quanto a classe `StringBuilder`.  
 
 ---
 
@@ -211,4 +211,4 @@ public class RemoverEspacos {
 ✅ Substituições e manipulações de texto  
 ✅ Extração e formatação de dados  
 
-🚀 **Agora é sua vez! Testes os códigos, analise o tempo de processamento. Pratique e melhore suas habilidades com manipulação de strings em Java!**
+🚀 **Agora é sua vez! Teste os códigos, analise o tempo de processamento. Pratique e melhore suas habilidades com manipulação de strings em Java!**
